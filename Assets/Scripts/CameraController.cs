@@ -8,7 +8,7 @@ public class CameraController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log(Screen.width + "X" + Screen.height);
+        //Debug.Log(Screen.width + "X" + Screen.height);
 		
 	}
 }
